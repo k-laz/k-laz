@@ -8,7 +8,7 @@
 - 4th year Business and Computer Science student at UBC
 - Passion for meaningful work that brings change
 - Open to job opportunities for Fall 2022
-- - 📝 My [Resume](https://drive.google.com/file/d/1hMeV4PA27jvY_WxTT0wxTq32GM8f-5sv/view)
+- My [Resume](https://drive.google.com/file/d/1hMeV4PA27jvY_WxTT0wxTq32GM8f-5sv/view)
 
 
 ## 👀 What I’m currently working on
