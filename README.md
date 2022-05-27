@@ -12,13 +12,13 @@
 
 
 ## 👀 What I’m currently working on
-- AWS certification
 - Website for a chain of walk-in clinics ("MedUnion")
 - Learning Next.js
 
 
 ## 📫 What I've done so far:
 - Full-Stack Developer @ Pola Tech LLC
+- AWS Cloud Technical Essentials [Certification](https://www.coursera.org/account/accomplishments/certificate/DVE4Y5XP9JXJ)
 - nwHacks 2022 - cryptocurrency wallet dashboard (Covalent's sponsor prize winner)
 - GryphHacks 2022 - discord bot that simulates an investment platform
 - UBC courses query engine fullstack course project (CPSC 310) 
